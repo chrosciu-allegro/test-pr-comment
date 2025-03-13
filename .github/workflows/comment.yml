@@ -19,5 +19,4 @@ jobs:
               - [ ] I read the task description and I understand the pull request and its consequences
               - [ ] unit / integration tests are provided
               - [ ] all corner cases are covered`
-            });
-            core.setFailed('All checkboxes must be checked');
+            });           
