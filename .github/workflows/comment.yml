@@ -4,7 +4,7 @@ on:
     types: [opened]
 jobs:
   apply-label:
-    runs-on: [self-hosted, ubuntu-latest]
+    runs-on: [ubuntu-latest]
     steps:
       - name: Add comment for reviewer
         uses: actions/github-script@v7
