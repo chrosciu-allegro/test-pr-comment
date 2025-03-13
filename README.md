@@ -1,2 +1,1 @@
 # test-pr-comment
-Test
